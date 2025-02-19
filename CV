@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<style>
+h1 {text-align: center;}
+h2 {text-align: center;}
+</style>
+
+	<title>Plamedie Kashama CV</title>
+</head>
+
+<body>
+
+	<h1>Plamedie Kashama</h1>
+	<h2>assistent logistiek magazijn</h2>
+	<hr>
+	<h2>Profiel</h2>
+	<h3>Ik ben een gemotiveerde student met een sterke achtergrond in bedrijfsondersteuning en informatica. Met mijn opleiding in Bedrijfsondersteunde Informatica heb ik zowel technische als organisatorische vaardigheden ontwikkeld, die ik graag wil inzetten in een logistieke omgeving. Ik ben leergierig, flexibel en werk goed onder druk. Mijn vermogen om processen te optimaliseren en mijn interesse in efficiëntie maken mij geschikt voor een functie als logistiek assistent, waar ik kan bijdragen aan de stroomlijning van logistieke operaties.</h3>
+	<h2>Werkervaring</h2>
+	<hr>
+	<h3>assistent logistiek | AiPhone</h3>
+	<p>Juli 2024 - september 2024</p>
+	<p>Antwerpen, Belgie</p>
+	<ul>
+	<li>Controleerde de voorraadniveaus en verzorgde de administratie van inkomende en uitgaande zendingen.</li>
+	<li>Assisteerde het logistieke team bij het coördineren van de ontvangst, opslag en verzending van goederen.</li>
+	<li>Verantwoordelijk voor het inboeken van leveringen in het voorraadbeheersysteem en het up-to-date houden van de voorraadadministratie.</li>
+	<li>Samen gewerkt met het team om de tijdige en nauwkeurige levering van producten te waarborgen.</li>
+	</ul>
+	<h2>Opleiding</h2>
+	<hr>
+	<h3>TSO Bedrijfsondersteunde Informatica</h3>
+	<p>Sint-Agnesinstituut</p>
+	<p>September 2023 – heden</p>
+	<ul>
+	<li>Vakgebieden: Bedrijfsondersteuning, Netwerktechnologie, Programmeren, Systeembeheer.</li>
+	<li>Focus op het ondersteunen van bedrijfsprocessen door middel van informatietechnologie.</li>
+	<li>Specialisatie in administratieve software en logistieke systemen.</li>
+	</ul>
+	<h3>Vaardigheden</h3>
+	<hr>
+	<ul>
+	<li>Basiskennis van netwerken en systeembeheer</li>
+	<li>Sterk in het analyseren en optimaliseren van processen</li>
+	<li>Flexibel en goed in het werken met deadlines in een dynamische omgeving</li>
+	<li>Nauwkeurigheid en oog voor detail bij administratieve taken</li>
+	</ul>
+</body>
+
+</html>
